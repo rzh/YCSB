@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export JAVA_HOME="/usr/lib/jvm/java-7-oracle/jre/"
+export JAVA_HOME="/usr/java/jdk1.7.0_71/jre"
 
 source /etc/profile.d/maven.sh
 
